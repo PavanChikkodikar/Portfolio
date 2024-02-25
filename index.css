@@ -480,14 +480,10 @@ img.man-icons {
 }
 
 
-
-
-
-
 /* ===== WORK =====*/
 .project-container {
   gap: 2rem;
-  max-width: 1024px;
+  max-width: 800px;
   display: grid;
   flex-wrap: wrap;
   grid-template-columns: repeat(1,1fr);
