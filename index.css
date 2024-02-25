@@ -487,8 +487,6 @@ img.man-icons {
   display: grid;
   flex-wrap: wrap;
   grid-template-columns: repeat(1,1fr);
-  /* grid-template-columns: repeat(auto-fit, minmax(300px, 1fr)); */
-  /* column-gap: 2rem; */
   width: calc(100% - 2rem);
   margin: auto;
 }
